@@ -4,7 +4,7 @@ I'm a solutions developer with a background in Mechanical Engineering, passionat
 
 - 🔭 I'm currently a graduate student in Machine Learning Engineering.
 - 🌱 I’m currently learning Computer Vision, C++ and virtual environments for simulations.
-- 👯 I’m looking to collaborate on autonomous mobility projects.
+- 👯 I’m looking to collaborate on simulation and autonomous mobility projects.
 
 ##
 

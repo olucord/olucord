@@ -2,9 +2,10 @@
 
 I'm a solutions developer with a background in Mechanical Engineering, passionate about advancing automation in autonomous systems.
 
-- 🔭 I'm currently a graduate student in Machine Learning Engineering.
-- 🌱 I’m currently learning Computer Vision, C++ and virtual environments for simulations.
-- 👯 I’m looking to collaborate on simulation and autonomous mobility projects.
+- 🔭 I'm currently pursuing a Postgraduate degree in Machine Learning Engineering.
+- 🌱 I’m currently learning Computer Vision, C++, and robot simulation environments (ROS, Gazebo).
+- 🚀 I’m interested in challenges involving data pipelines, AI model development, and robotic intelligence.
+- 👯 I’m looking to collaborate on projects related to Machine Learning, Data Science, Autonomous Systems, and Automation.
 
 ##
 

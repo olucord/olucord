@@ -1,4 +1,4 @@
-## Hello! I'm Lucas Cordeiro.
+## 👋 Hello! I'm Lucas Cordeiro. 
 
 I'm a solutions developer with a background in Mechanical Engineering, passionate about advancing automation in autonomous systems.
 
